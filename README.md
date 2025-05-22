@@ -6,6 +6,6 @@
 * Retransmission 발생했을 경우, Sequence Number는 증가하지 않는다.
 
 <p align="center">
-![Image](https://github.com/user-attachments/assets/0763ae84-b924-4103-b91e-7744905d150e)
+<img src=https://github.com/user-attachments/assets/0763ae84-b924-4103-b91e-7744905d150e>
   
 </p>
