@@ -6,4 +6,4 @@
 * Retransmission 발생했을 경우, Sequence Number는 증가하지 않는다.
 
 <p align="center">
-<image src="https://github.com/YangBeomu/s_develop_tcp-seq-ack/issues/1#issue-3081757616"></p>
+<image src="https://github.com/YangBeomu/s_develop_tcp-seq-ack/issues/1#issue-3081757616](https://github.com/user-attachments/assets/0763ae84-b924-4103-b91e-7744905d150e)"></p>
